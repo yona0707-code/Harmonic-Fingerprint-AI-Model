@@ -1,5 +1,7 @@
 # Harmonic Fingerprint AI Ver2
 
+Live demo: https://harmonic-fingerprint-ai-model-6cbtq3c85kkjnzaike4dlb.streamlit.app/
+
 This is an isolated, pre-training audio workspace for the finalized four-category experiment. The working Streamlit/Supabase project at `/Users/yonainoue/Emotions` is read-only and is not imported as code.
 
 ## Active source experiment
